@@ -4,7 +4,7 @@ Name: SOHEL SOREN
 Company: CODTECH IT SOLUTIONS
 ID: CT4CPP2876
 Domain: C++
-Duration: May to June 2024 Mentor: NEELA SANTOSH KUMAR
+Duration: June to July 2024 Mentor: NEELA SANTOSH KUMAR
 
 Overview of the Project
 Project: TEMPERATURE CONVERTER
